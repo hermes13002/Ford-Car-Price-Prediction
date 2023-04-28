@@ -13,6 +13,7 @@ Using a three different Model Algorithms:
 1. Linear regression ||  72.9950872434692
 2. Decison Tree      ||  81.98316938944247
 3. XGBoost           ||  89.18162287421569
+
 ![model algorithm](https://user-images.githubusercontent.com/82550064/235228824-44d66bed-90a4-4004-a27b-c8e2b0a9c8ca.png)
 
 
